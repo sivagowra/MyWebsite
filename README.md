@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 **Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
 
 When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
@@ -47,3 +48,6 @@ Now that you're more familiar with your Bitbucket repository, go ahead and add a
 =======
 # MyWebsite
 >>>>>>> fb8844c (Initial commit)
+=======
+# MyWebsite
+>>>>>>> 4db50a57cacfcc3870da56c70f884a817ae87cf6

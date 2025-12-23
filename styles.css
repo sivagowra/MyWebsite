@@ -3,10 +3,16 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+<<<<<<< HEAD
 }
 
 
 
+=======
+    
+}
+
+>>>>>>> 4db50a57cacfcc3870da56c70f884a817ae87cf6
 body {
     line-height: 1.6;
     color: #333;
@@ -224,4 +230,9 @@ footer {
     .project-grid {
         grid-template-columns: 1fr;
     }
+<<<<<<< HEAD
 } 
+=======
+
+} 
+>>>>>>> 4db50a57cacfcc3870da56c70f884a817ae87cf6

@@ -1,5 +1,6 @@
 /* General Styles */
 :root {
+<<<<<<< HEAD
     --primary-color: #0ea5e9;
     --secondary-color: #6366f1;
     --dark-color: #0b1220;
@@ -12,6 +13,20 @@
     --gradient-3: linear-gradient(120deg, #f59e0b 0%, #f97316 100%);
     --gradient-4: linear-gradient(120deg, #a5b4fc 0%, #c7d2fe 100%);
     --gradient-5: linear-gradient(120deg, #34d399 0%, #10b981 100%);
+=======
+    --primary-color: #2563eb;
+    --secondary-color: #3b82f6;
+    --dark-color: #0f172a;
+    --light-color: #f8fafc;
+    --accent-color: #f97316;
+    --text-color: #334155;
+    --text-light: #64748b;
+    --gradient-1: linear-gradient(135deg, #2563eb 0%, #3b82f6 100%);
+    --gradient-2: linear-gradient(120deg, #0ea5e9 0%, #38bdf8 100%);
+    --gradient-3: linear-gradient(120deg, #f97316 0%, #fb923c 100%);
+    --gradient-4: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+    --gradient-5: linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%);
+>>>>>>> 4db50a57cacfcc3870da56c70f884a817ae87cf6
     --box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
     --header-bg: rgba(15, 23, 42, 0.95);
     --hero-bg: #0f172a;
@@ -42,7 +57,11 @@
     --text-gradient-lead: linear-gradient(135deg, #60a5fa 0%, #93c5fd 100%);
 
     /* Enhanced Gradients */
+<<<<<<< HEAD
     --gradient-hero: linear-gradient(135deg, #0b1220 0%, #0f172a 100%);
+=======
+    --gradient-hero: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
+>>>>>>> 4db50a57cacfcc3870da56c70f884a817ae87cf6
     --gradient-text-main: linear-gradient(135deg, #ffffff 0%, #e2e8f0 100%);
     --gradient-text-lead: linear-gradient(45deg, #60a5fa 0%, #93c5fd 100%);
     --gradient-wave: linear-gradient(45deg, #ffd700 0%, #ffab00 100%);
@@ -466,6 +485,7 @@ section {
 }
 
 .skill-card {
+<<<<<<< HEAD
     background: linear-gradient(135deg, rgba(14, 165, 233, 0.08), rgba(99, 102, 241, 0.05));
     padding: 2rem;
     border-radius: 16px;
@@ -491,6 +511,28 @@ section {
     margin: 0.75rem 0;
     font-size: 1.05rem;
     color: var(--text-color);
+=======
+    background: white;
+    padding: 2rem;
+    border-radius: 15px;
+    transition: all 0.3s ease;
+    box-shadow: var(--box-shadow);
+}
+
+.skill-card:hover {
+    transform: translateY(-5px);
+}
+
+.skill-card h3 {
+    color: var(--primary-color);
+    margin-bottom: 1.5rem;
+    font-size: 1.5rem;
+}
+
+.skill-card li {
+    margin: 1rem 0;
+    font-size: 1.1rem;
+>>>>>>> 4db50a57cacfcc3870da56c70f884a817ae87cf6
 }
 
 .skill-card i {
@@ -617,6 +659,7 @@ section {
     box-shadow: 0 5px 15px rgba(37, 99, 235, 0.3);
 }
 
+<<<<<<< HEAD
 /* Certifications Section */
 #Certifications {
     background: linear-gradient(135deg, #0b1220 0%, #0f172a 100%);
@@ -654,6 +697,8 @@ section {
     margin-bottom: 0;
 }
 
+=======
+>>>>>>> 4db50a57cacfcc3870da56c70f884a817ae87cf6
 /* Footer */
 footer {
     background: var(--footer-bg);
