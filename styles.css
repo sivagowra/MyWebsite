@@ -4,9 +4,6 @@
     box-sizing: border-box;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-
-
-
 body {
     line-height: 1.6;
     color: #333;
@@ -225,3 +222,4 @@ footer {
         grid-template-columns: 1fr;
     }
 } 
+
